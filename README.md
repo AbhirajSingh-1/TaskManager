@@ -1,3 +1,12 @@
+## 🚀 UI Preview
+
+### 🟣 Login Page
+![Login Page](UI/login.png)
+
+### 🟡 Dashboard
+![Dashboard](UI/dashboard.png)
+
+
 # TaskFlow - Task Management Application
 
 ## Tech Stack
