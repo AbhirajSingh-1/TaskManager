@@ -1,10 +1,10 @@
 ## 🚀 UI Preview
 
 ### 🟣 Login Page
-![Login Page](UI/login.png)
+![Login Page](./UI/Login.png)
 
 ### 🟡 Dashboard
-![Dashboard](UI/dashboard.png)
+![Dashboard](./UI/Dashboard.png)
 
 
 # TaskFlow - Task Management Application
